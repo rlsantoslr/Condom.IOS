@@ -10,7 +10,7 @@ import WebKit
 
 struct ContentView: View {
     @State private var showWebView = false
-    private let urlString: String = "https://www.uol.com"
+    private let urlString: String = "https://condom.azurewebsites.net/"
     
     var body: some View {
         ZStack {
